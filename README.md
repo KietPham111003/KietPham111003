@@ -12,6 +12,8 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
 - **Monitoring & Observability**:  
   ![Prometheus](https://img.shields.io/badge/-Prometheus-e6522c?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-f46800?logo=grafana&logoColor=white)  
   ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?logo=elastic&logoColor=white)
+  ![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?logo=zabbix&logoColor=white)  
+  ![PRTG](https://img.shields.io/badge/-PRTG%20Network%20Monitor-ffcc00?logo=windows&logoColor=black)
 
 - **Networking Tools**:  
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
@@ -27,6 +29,7 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
   ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
+  ![Apache HTTP Server](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white)
 
 ---
 
