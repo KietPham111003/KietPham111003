@@ -22,6 +22,10 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
   ![EVE-NG](https://img.shields.io/badge/-EVE--NG-1f1f1f?logo=linux&logoColor=white)  
   ![PnetLab](https://img.shields.io/badge/-PnetLab-003366?logo=proxmox&logoColor=white)
 
+- **Servers & OS**:  
+  ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)  
+  ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+
 - **DevOps & CI/CD**:  
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
