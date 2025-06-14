@@ -52,11 +52,9 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
-![Your Friend's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KietPham111003)](https://git.io/streak-stats)
 
 ---
 
@@ -64,4 +62,4 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
 
 Feel free to reach out or check out my work!  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-📬 Email: your.email@example.com
+📬 Email: tuankiet111003@outlook.com.vn
