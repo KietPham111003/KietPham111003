@@ -16,6 +16,9 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
 - **Networking Tools**:  
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
   ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1ba0d7?logo=cisco&logoColor=white)
+  ![GNS3](https://img.shields.io/badge/-GNS3-2c3e50?logo=gns3&logoColor=white)  
+  ![EVE-NG](https://img.shields.io/badge/-EVE--NG-1f1f1f?logo=linux&logoColor=white)  
+  ![PnetLab](https://img.shields.io/badge/-PnetLab-003366?logo=proxmox&logoColor=white)
 
 - **DevOps & CI/CD**:  
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
