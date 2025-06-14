@@ -26,6 +26,10 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
   ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)  
   ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
 
+- **Web & Reverse Proxy**:  
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)  
+  ![Apache HTTP Server](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white)
+
 - **DevOps & CI/CD**:  
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
@@ -33,7 +37,18 @@ Welcome to my GitHub! I'm passionate about building and managing modern, scalabl
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
   ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
-  ![Apache HTTP Server](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white)
+
+---
+
+## 💼 Experience
+
+- **🎓 VNU-HCMUS — University of Science, VNU-HCM**  
+  *Bachelor's in Electronics and Telecommunications (2021 – 2025)*  
+  Gained strong fundamentals in networking, embedded systems, and software development through coursework and hands-on projects.
+
+- **🛠️ VNPT (Vietnam Posts and Telecommunications Group) – System and Service Monitoring Intern**  
+  *Sep 4, 2024 – Nov 3, 2024*  
+  Assisted in monitoring network services and infrastructure performance, analyzing system logs, and supporting fault management across VNPT's infrastructure using tools like Zabbix and Grafana.
 
 ---
 
